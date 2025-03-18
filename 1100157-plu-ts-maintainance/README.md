@@ -5,7 +5,7 @@
 **HLabs: plu-ts - ts framework for Cardano smart contracts**  
 [Project Catalyst](https://milestones.projectcatalyst.io/projects/1100157)
 
-## Your Project Number
+## Project Number
 
 **1100157**
 
