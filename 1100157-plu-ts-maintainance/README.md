@@ -31,9 +31,8 @@ The project aimed to ensure long-term usability and efficiency by
 focusing on the following KPIs:
 
 1. **Maintenance and stability of the library**  
-   - Conducted rigorous testing and debugging to enhance reliability.  
-   - Improved error handling to minimize unexpected failures.  
-   - Regularly updated documentation to reflect best practices.  
+   - Conducted testing and debugging to improve the tool's stability.  
+   - Improved error handling to minimize unexpected failures.
 
 2. **Performance improvements of the generated contracts**  
    - Optimized contract compilation to reduce execution time.  
@@ -44,9 +43,7 @@ focusing on the following KPIs:
 
 - Maintained an eDSL for TypeScript and JavaScript, making it easier
   for developers proficient in these languages to build on Cardano.
-- Improved framework stability, leading to increased adoption.
-- Established a feedback loop with early adopters to refine the
-  library based on real-world use cases.
+- Improved framework stability.
 
 ## Key learnings
 
@@ -69,4 +66,3 @@ focusing on the following KPIs:
   it accessible to more developers.
 - Ongoing development and community engagement are key to long-term
   success.
-- Future iterations will focus on modularity and broader adoption.
